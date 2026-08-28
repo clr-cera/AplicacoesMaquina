@@ -1,0 +1,29 @@
+experiment,window,metric,value
+window_lengths,5.0,MAPE (%),11.13985983036771
+window_lengths,5.0,MAE,202059.4032708333
+window_lengths,5.0,RMSE,427761.2481660579
+window_lengths,5.0,R2,0.9769113448771071
+window_lengths,10.0,MAPE (%),10.363828604507056
+window_lengths,10.0,MAE,136757.160359375
+window_lengths,10.0,RMSE,199252.64153306943
+window_lengths,10.0,R2,0.9949903897908905
+window_lengths,15.0,MAPE (%),7.674174795545381
+window_lengths,15.0,MAE,104300.68702604166
+window_lengths,15.0,RMSE,165163.76031616094
+window_lengths,15.0,R2,0.9965578857280627
+sa_no_climate,,MAPE (%),6.23881359006089
+sa_no_climate,,MAE,132343.3517621528
+sa_no_climate,,RMSE,342208.8607692104
+sa_no_climate,,R2,0.9854127538721872
+sa_climate,,MAPE (%),10.847021163135606
+sa_climate,,MAE,121283.31971354167
+sa_climate,,RMSE,161495.5239899538
+sa_climate,,R2,0.9967512836833555
+top_producers,,MAPE (%),5.156081430059474
+top_producers,,MAE,3202988.502
+top_producers,,RMSE,6685529.502456085
+top_producers,,R2,0.9911455324409247
+cv_sa_no_climate,,MAPE mean (%),5.798024768986961
+cv_sa_no_climate,,MAPE std (%),1.999601393679598
+cv_sa_climate,,MAPE mean (%),8.660715272324735
+cv_sa_climate,,MAPE std (%),1.8174124358144492
