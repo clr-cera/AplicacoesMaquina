@@ -1,0 +1,17 @@
+[project]
+name = "aplicacoesmaquina"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "autogluon>=1.6.1",
+    "pandas<3.0",
+    "ipykernel>=7.3.0",
+    "numpy>=2.5.2",
+    "pip>=26.2.1",
+    "polars>=1.44.1",
+    "pyarrow>=24.0.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+]

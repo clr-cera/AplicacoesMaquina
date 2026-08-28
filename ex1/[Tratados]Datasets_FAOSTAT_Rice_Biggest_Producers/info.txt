@@ -1,0 +1,2 @@
+# Dataset
+Esta pasta contém os conjuntos de dados tratados usados nos experimentos de previsão de produção de arroz.
